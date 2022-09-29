@@ -1,0 +1,9 @@
+[{
+        "mob": "minecraft:stray",
+        "remove": ["minecraft:tipped_arrow", "minecraft:arrow"]
+    },
+    {
+        "mob": "more_babies:stray",
+        "remove": ["minecraft:tipped_arrow", "minecraft:arrow"]
+    }
+]

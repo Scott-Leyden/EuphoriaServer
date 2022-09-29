@@ -1,0 +1,115 @@
+'offhand' : '{Count:1b,id:"minecraft:shield",tag:{Damage:0}}',
+'head' : '{Count:1b,id:"minecraft:leather_helmet",tag:{Damage:0}}',
+'chest' : '{Count:1b,id:"minecraft:leather_chestplate",tag:{Damage:0}}',
+'legs' : '{Count:1b,id:"minecraft:leather_leggings",tag:{Damage:0}}',
+'feet' : '{Count:1b,id:"minecraft:leather_boots",tag:{Damage:0}}',
+0 : '{Count:1b,id:"minecraft:stone_pickaxe",tag:{Damage:0}}',
+1 : '{Count:1b,id:"minecraft:stone_axe",tag:{Damage:0}}',
+2 : '{Count:1b,id:"minecraft:stone_shovel",tag:{Damage:0}}',
+3 : '{Count:24b,id:"minecraft:torch"}',
+4 : '',
+5 : '{Count:16b,id:"create:sweet_roll"}',
+6 : '{Count:1b,id:"druidcraftrg:light_gray_bedroll"}',
+7 : '{Count:1b,id:"minecraft:writable_book",tag:{pages:["===================
+    Quick Guide Book
+===================
+
+
+>> Intoduction...................2
+>> Technical info............4
+>> Player controls.......6
+>> Main mods.......................8
+>> Other mods................12
+
+
+
+                 by Wedge","   << INTRODUCTION >>
+
+Welcome to Create Flavored, a mod-pack, focused on the Create mod, spiced up with vanilla+ mods that aim to enhance quality of life, ambience and aesthetics, as well as the building palette.","
+There are no set line of advancement, the main goal of the mod- pack is to build the automation factory of your dreams, using mechanical devices linked by sophisticated logistics, your imagination is the limit.","  << TECHNICAL INFO>>
+
+At least 4GB of RAM is required to run the mod-pack smoothly.
+
+Optifine is optional for connected textures and performance.
+
+Please report issues and suggestion in the mod-pack's page.","
+Use the JEI items list to check the recipe of the item you hover over or the recipes it is used for. You can filter by mod by typing @ then the mod's name.
+
+For a performance boost, you can disable bushy leaves, check the resouce packs menu for more info.","     << CONTROLS >>
+
+- Crawl: ALT
+- Switch hotbar: Z
+- Quick building: X
+- Sort inventory: V
+- Sort container: B
+- Open map: M
+- Toggle minimap: N
+- Check recipe: R
+- Check uses: U
+- Open backpack: H
+- Excavate: `
+- Emote: CTRL+NUM","
+- Grab: SHIFT+R-Click (with empty hands)
+- Waypoints: O
+- Excavation radius: \\
+- Food Log: L
+- Sit: R","    << MAIN MODS >>
+
+## Create
+
+Create will allow you to construct custom devices to automate almost anything, while hovering over an item from this mod, you can hold [W] to open a visual tutorial that will teach you everything about it.","## Tom Simple Storage
+
+The solution to messy & scattered storage. you can connect all your containers to an inventory connector with cables or trims, or if adjacent to other connected containers. you can access them at once using a terminal, wire- less terminal available!","## More Minecarts
+
+Adds new minecart and rail variants for better item and fluid transportation, as well as other misc stuff.
+
+## Ageing Spawners
+
+Makes spawners break after some time, to encourage exploring dungeons for them.","## Redstone Pen
+
+Adds tools that allows drawing redstone dust wires and choosing which connect to which as well as relays with various uses.
+
+## Travel Anchor
+
+Put anchors around your base to travel around with ease.","   << Other Mods >>
+
+- Alex Mods
+- Artifacts
+- Biomes O'Plenty
+- Buddycards
+- Dustrial Decor
+- Effortless Building
+- Farmer's Delight
+- Structures Mods
+- Quark
+- Sophisticated Packs
+
+WORK IN PROGRESS ..."]}}',
+8 : '{Count:1b,id:"minecraft:spyglass"}',
+9 : '',
+10 : '',
+11 : '',
+12 : '',
+13 : '',
+14 : '',
+15 : '',
+16 : '',
+17 : '',
+18 : '',
+19 : '',
+20 : '',
+21 : '',
+22 : '',
+23 : '',
+24 : '',
+25 : '',
+26 : '',
+27 : '',
+28 : '',
+29 : '',
+30 : '',
+31 : '',
+32 : '',
+33 : '',
+34 : '',
+35 : '',
