@@ -1,0 +1,21 @@
+CHANGELOG 4.1.txt
+README.txt
+banned-ips.json
+banned-players.json
+defaultconfigs/
+eula.txt
+forge-1.18.2-40.1.80-installer.jar
+installer.log
+libraries/
+logs/
+mods/
+ops.json
+run.bat
+run.sh
+server-icon.png
+server.properties
+user_jvm_args.txt
+usercache.json
+usernamecache.json
+whitelist.json
+world/
